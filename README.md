@@ -1,4 +1,6 @@
 # Student Record Management System
+![image](https://github.com/PradeepChandravadiya/Student-Record-Management-System/assets/166367968/46401e59-ef23-460c-b801-a9f8556f4924)
+
 
 ## Overview
 
