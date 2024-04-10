@@ -20,6 +20,7 @@ cout<<"Enter Roll NO:: "<<endl;
 cin>>roll_no[i];
 cout<<"Enter Name: "<<endl;
 cin>>name[i];
+//getline(cin,name[i];
 cout<<"Enter Class: "<<endl;
 cin>>Class[i];
 cout<<"Enter Course: "<<endl;
